@@ -1,0 +1,9 @@
+C:\Users\lehuutai\documents\visual studio 2012\Projects\ECC_Diffie-Helman\ECC_Diffie-Helman\bin\Release\ECC_Diffie-Helman.exe.config
+C:\Users\lehuutai\documents\visual studio 2012\Projects\ECC_Diffie-Helman\ECC_Diffie-Helman\bin\Release\ECC_Diffie-Helman.exe
+C:\Users\lehuutai\documents\visual studio 2012\Projects\ECC_Diffie-Helman\ECC_Diffie-Helman\bin\Release\ECC_Diffie-Helman.pdb
+C:\Users\lehuutai\documents\visual studio 2012\Projects\ECC_Diffie-Helman\ECC_Diffie-Helman\obj\Release\ECC_Diffie-Helman.csprojResolveAssemblyReference.cache
+C:\Users\lehuutai\documents\visual studio 2012\Projects\ECC_Diffie-Helman\ECC_Diffie-Helman\obj\Release\ECC_Diffie_Helman.Form1.resources
+C:\Users\lehuutai\documents\visual studio 2012\Projects\ECC_Diffie-Helman\ECC_Diffie-Helman\obj\Release\ECC_Diffie_Helman.Properties.Resources.resources
+C:\Users\lehuutai\documents\visual studio 2012\Projects\ECC_Diffie-Helman\ECC_Diffie-Helman\obj\Release\ECC_Diffie-Helman.csproj.GenerateResource.Cache
+C:\Users\lehuutai\documents\visual studio 2012\Projects\ECC_Diffie-Helman\ECC_Diffie-Helman\obj\Release\ECC_Diffie-Helman.exe
+C:\Users\lehuutai\documents\visual studio 2012\Projects\ECC_Diffie-Helman\ECC_Diffie-Helman\obj\Release\ECC_Diffie-Helman.pdb
